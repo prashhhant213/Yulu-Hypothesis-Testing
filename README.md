@@ -1,4 +1,5 @@
 # Yulu-Hypothesis-Testing
+![cover_dribbble](https://github.com/prashhhant213/Yulu-Hypothesis-Testing/assets/155083268/86addaa8-3eb5-482b-8bba-aafe4333e760)
 # Problem Statement
 Yulu is India’s leading micro-mobility service provider, which offers unique vehicles for the daily commute. Yulu has recently suffered considerable dips in its revenues. The company wants to understand: Which variables are significant in predicting the demand for shared electric cycles in the Indian market? How well those variables describe the electric cycle demands?
 # Insights
